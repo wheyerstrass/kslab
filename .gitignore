@@ -1,3 +1,5 @@
 .metadata/
 inet/
 ks/src.tar.gz
+ks/simulations/lab/simulation/results/
+ks/simulations/lab/simulation/.tkenvrc
